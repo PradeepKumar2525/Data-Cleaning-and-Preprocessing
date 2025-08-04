@@ -13,6 +13,8 @@ Simplified complex category labels (e.g., from “youth(<25)” to “youth”) 
 
 Converted date columns from strings to datetime objects, ensuring correct day-month-year interpretation and uniform formatting (dd/mm/yyyy).
 
+Calculated Revenue,Profit from Cost,Quantity and Price
+
 Converted data types appropriately for numeric and date fields to enable analysis.
 
 Removed irrelevant columns to keep the dataset focused and concise.
